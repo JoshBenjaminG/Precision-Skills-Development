@@ -70,7 +70,7 @@
   #dark-mode-toggle .moon {
     z-index: 2;
     transition: transform .3s, opacity .3s, fill .3s;
-    fill: #000;
+    fill: black;
   }
   #dark-mode-toggle .sun {
     z-index: 1;
@@ -90,6 +90,6 @@
     margin-bottom: 0em;
   }
   #dark-mode-toggle .moon {
-    fill: #fff;
+    fill: black;
   }
 }
