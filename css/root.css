@@ -121,7 +121,7 @@
     top: 0;
     left: 0;
     z-index: -1;
-    background-color: #000;
+    background-color: #FA8072;
     width: 0;
     -webkit-transition: width .3s;
     transition: width .3s;
